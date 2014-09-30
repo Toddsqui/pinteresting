@@ -4,4 +4,12 @@ class PagesController < ApplicationController
 
   def about
   end
+
+
+  def links
+  end
+
+
+  def worksheets
+  end
 end
